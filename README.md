@@ -11,12 +11,12 @@ identifying financial trends that help organizations make informed decisions.
 My approach combines analytical thinking, attention to detail, and a passion for continuous learning. Through my projects,
 I aim to demonstrate how data can tell meaningful stories, solve complex problems, and create real business value.
 
-#🧠 Technical Skills#
+#Technical Skills
 
-Excel           – Data Cleaning, Data Validation, and Dashboard Creation
+**Excel**           – Data Cleaning, Data Validation, and Dashboard Creation
 
-SQL (BigQuery)  – Querying, Joins, and Data Transformation
+**SQL (BigQuery)**  – Querying, Joins, and Data Transformation
 
-R Programming   – Data Analysis, Visualization, and Statistical Modelling
+**R Programming**   – Data Analysis, Visualization, and Statistical Modelling
 
-Tableau         – Interactive Dashboards and Data Storytelling
+**Tableau**        – Interactive Dashboards and Data Storytelling
